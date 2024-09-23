@@ -86,14 +86,14 @@
 
 ![image](https://github.com/user-attachments/assets/04f1b1bc-23db-423d-985e-21c545345e9b)
 
-#### UML use case elements - <<includes>>
+#### UML use case elements - includes
 
 * Goal: Reduce complexity by identifying commonalities in different use cases
   * Incorporates one use case (intended) within another (including use case)
   * Ensures that the included use case is always part of the main functionality of the including use case
   * Enhances modularity and reusability by breaking down complex use cases into simpler, reusable componenets
  
-#### <<extends>>
+#### UML use case elements - extends
 
 * Goal: Reduce complexity by extending use cases with optional and conditional behavior that occurs within a use case
 * Allows for the inclusion of additional functionality, often triggered by exceptional or rare cases
